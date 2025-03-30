@@ -72,3 +72,4 @@ try {
 unlink("/tmp/$backup_file");
 
 echo "Backup created successfully and uploaded to Azure Storage Account.";
+
